@@ -1,4 +1,4 @@
-# NBA Home Team Win Predictor
+# NBA Bust or Star Predictor
 
 Link to download NBA database: https://www.kaggle.com/datasets/wyattowalsh/basketball/data
 
